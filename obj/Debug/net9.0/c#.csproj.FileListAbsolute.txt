@@ -12,3 +12,4 @@
 /Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.pdb
 /Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.genruntimeconfig.cache
 /Users/anseung-gi/Documents/c#/obj/Debug/net9.0/ref/c#.dll
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.sourcelink.json
