@@ -1,0 +1,14 @@
+/Users/anseung-gi/Documents/c#/bin/Debug/net9.0/c#
+/Users/anseung-gi/Documents/c#/bin/Debug/net9.0/c#.deps.json
+/Users/anseung-gi/Documents/c#/bin/Debug/net9.0/c#.runtimeconfig.json
+/Users/anseung-gi/Documents/c#/bin/Debug/net9.0/c#.dll
+/Users/anseung-gi/Documents/c#/bin/Debug/net9.0/c#.pdb
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.AssemblyInfoInputs.cache
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.AssemblyInfo.cs
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.csproj.CoreCompileInputs.cache
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.dll
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/refint/c#.dll
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.pdb
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/c#.genruntimeconfig.cache
+/Users/anseung-gi/Documents/c#/obj/Debug/net9.0/ref/c#.dll
