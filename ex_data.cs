@@ -28,10 +28,11 @@ bool b = true;
 
 class ex_string(){
     char a;
-    string b;
+    string b = "not null";
+
     
 }
 
 class ex_object(){
-    object a;
+    object a = object.Equals;
 }
