@@ -34,5 +34,5 @@ class ex_string(){
 }
 
 class ex_object(){
-    object a = object.Equals;
+    object a = "object not null";
 }
