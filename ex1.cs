@@ -7,6 +7,7 @@ class ex1{
 
         할수있다.
         */
+        // 추가
         Console.WriteLine("Hellow world");
         Console.WriteLine("Hellow c#");
 
