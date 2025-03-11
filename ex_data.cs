@@ -1,6 +1,8 @@
 using System;
 
-class ex_interger(){
+namespace DataNamespace{
+
+public class ex_interger(){
 
     byte a;
     sbyte sa;
@@ -19,20 +21,29 @@ class ex_interger(){
 
 }
 
-class ex_boolean(){
+public class ex_boolean(bool x){
 
-bool b = true;
+    bool x;
+
+public void ex_bb(bool b){
+    this.x = b;
+    b = true;
+    Console.WriteLine(b);
+}
 
 
 }
 
-class ex_string(){
+public class ex_string(){
     char a;
     string b = "not null";
 
     
 }
 
-class ex_object(){
+public class ex_object(){
     object a = "object not null";
 }
+
+}
+
